@@ -1,0 +1,2 @@
+webpackJsonp([0x7ea74ac59b64],{318:function(e,t){e.exports={pathContext:{posts:[{html:"<h1>ASD234987</h1>\n<p>Let see where this leads. I hope this leads to something productive or a new ski\nll.</p>",id:"/Users/macbook/my-blog/src/pages/2017-12-7-getting-bored/index.md absPath of file >>> MarkdownRemark",frontmatter:{date:"2017-12-07T23:09:49+0500",path:"/getting-bored",title:"Getting Bored",excerpt:"Getting Bored or Boredom",tags:["getting bored","boredom","boring"]}}],tagName:"boredom"}}}});
+//# sourceMappingURL=path---tags-boredom-a27f7e5fb325f27311be.js.map

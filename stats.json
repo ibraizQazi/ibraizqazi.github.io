@@ -1,0 +1,106 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-807e2d13b7a562d4e1d9.js",
+      "component---src-pages-index-js-807e2d13b7a562d4e1d9.js.map"
+    ],
+    "path---tags-first-post": [
+      "path---tags-first-post-6175388597ede3e9f00b.js",
+      "path---tags-first-post-6175388597ede3e9f00b.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-f9a8a6f4dec9d1a40211.js",
+      "component---src-templates-tags-js-f9a8a6f4dec9d1a40211.js.map"
+    ],
+    "path---tags": [
+      "path---tags-c9648413fceaec0e79bd.js",
+      "path---tags-c9648413fceaec0e79bd.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---tags-boring": [
+      "path---tags-boring-56a5191eb943aa328f64.js",
+      "path---tags-boring-56a5191eb943aa328f64.js.map"
+    ],
+    "path---tags-getting-bored": [
+      "path---tags-getting-bored-4e88181e6cc205389624.js",
+      "path---tags-getting-bored-4e88181e6cc205389624.js.map"
+    ],
+    "path---test": [
+      "path---test-d6a659f64df176bc0837.js",
+      "path---test-d6a659f64df176bc0837.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-ce525339d230f71baff7.js",
+      "component---src-templates-blog-post-js-ce525339d230f71baff7.js.map"
+    ],
+    "path---tags-one-more": [
+      "path---tags-one-more-819619281c212ae7ad5c.js",
+      "path---tags-one-more-819619281c212ae7ad5c.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-dd59ad16ebf6d12aae72.js",
+      "component---src-layouts-index-js-dd59ad16ebf6d12aae72.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-boredom": [
+      "path---tags-boredom-a27f7e5fb325f27311be.js",
+      "path---tags-boredom-a27f7e5fb325f27311be.js.map"
+    ],
+    "path---index": [
+      "path---index-1a0f5b40b30582576e05.js",
+      "path---index-1a0f5b40b30582576e05.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-79baf21cb474f27d4109.js",
+      "commons-79baf21cb474f27d4109.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---one-more": [
+      "path---one-more-6862a929653bcdbfb808.js",
+      "path---one-more-6862a929653bcdbfb808.js.map"
+    ],
+    "component---src-templates-all-tags-js": [
+      "component---src-templates-all-tags-js-a109e949baa4beb6ccfa.js",
+      "component---src-templates-all-tags-js-a109e949baa4beb6ccfa.js.map"
+    ],
+    "path---tags-one-post": [
+      "path---tags-one-post-94c838e2c2525e0dd775.js",
+      "path---tags-one-post-94c838e2c2525e0dd775.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
+    "path---getting-bored": [
+      "path---getting-bored-e864bf37c7a3b555788e.js",
+      "path---getting-bored-e864bf37c7a3b555788e.js.map"
+    ],
+    "app": [
+      "app-04093c3b34efbe5f80ee.js",
+      "build-js-styles.css",
+      "app-04093c3b34efbe5f80ee.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-test": [
+      "path---tags-test-ff65c6ae94378c45a428.js",
+      "path---tags-test-ff65c6ae94378c45a428.js.map"
+    ]
+  }
+}

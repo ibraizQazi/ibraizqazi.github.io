@@ -1,0 +1,2 @@
+webpackJsonp([55702396619907],{325:function(o,t){o.exports={pathContext:{tags:["boredom","boring","first post","getting bored","one more","one post","test"]}}}});
+//# sourceMappingURL=path---tags-c9648413fceaec0e79bd.js.map
